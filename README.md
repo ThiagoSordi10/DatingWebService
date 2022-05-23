@@ -1,6 +1,6 @@
 # Dating Web Service
 > Running on Heroku (https://datingwebservice.herokuapp.com)<br>
-> Using Express, NodeJS, SQLite, JWT
+> Using Express, NodeJS, SQLite, JWT<br>
 > API used by <a href="https://github.com/ThiagoSordi10/DateApp">Date App</a>
 
 
